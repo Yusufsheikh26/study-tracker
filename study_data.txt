@@ -1,0 +1,6 @@
+Maths,4
+English,2
+CS,1
+GK,3
+CS,1,AI/ML
+Physics,6,Optics
